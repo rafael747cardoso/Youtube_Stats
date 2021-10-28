@@ -25,12 +25,12 @@ Have fun!
 
 ## Figures:
 
-![screen 1](Figs/1D_Histogram.png)
-![screen 2](Figs/2D_Density.png)
-![screen 3](Figs/Barplot_Channels.png)
-![screen 4](Figs/Bubble_Colors.png)
-![screen 5](Figs/Correlation_Matrix.png)
-![screen 6](Figs/Scatter_2_Channels.png)
-![screen 7](Figs/Scatter_Colors.png)
+![screen 1](figs/1D_Histogram.png)
+![screen 2](figs/2D_Density.png)
+![screen 3](figs/Barplot_Channels.png)
+![screen 4](figs/Bubble_Colors.png)
+![screen 5](figs/Correlation_Matrix.png)
+![screen 6](figs/Scatter_2_Channels.png)
+![screen 7](figs/Scatter_Colors.png)
 
 
