@@ -17,7 +17,7 @@ Considering the API's limitations and some data cleaning I've made, it has yield
 - comments_views_ratio
 - mean_views_day
 
-Then I've done some interactive plots with ipywidgets for the user to amuse her/himself exploring the data for each channel or even comparing two channels at once.
+Then I've done some interactive plots with ipywidgets for the user to enjoy exploring the data for each channel or even comparing two channels at once.
 
 Feel free to grow and update the dataset, baring in mind the API's limitation of only 20.000 videos by channel.
 
