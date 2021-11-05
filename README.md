@@ -8,7 +8,6 @@ Considering the API's limitations and some data cleaning I've made, it has yield
 - Likes
 - Dislikes
 - Comments
-- Likes/dislikes
 - Age (days)
 - Likes/dislikes
 - Likes/views
