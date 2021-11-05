@@ -1,21 +1,31 @@
 
 # Youtube data analysis 
 
-Here I've selected some 126 channels from Youtube and harvested their public data from the YouTube Data API v3.
-Considering the API's limitations and some data cleaning I've made, it has yield some 109.845 videos with the following variables:
-- channel_title
-- channel_id
-- video_title
-- video_id
-- video_upload_date
-- views
-- likes
-- dislikes
-- comments
-- age_days
-- likes_dislikes_ratio
-- comments_views_ratio
-- mean_views_day
+Here I've selected some 160 channels from Youtube and harvested their public data from the YouTube Data API v3.
+Considering the API's limitations and some data cleaning I've made, it has yield some 124.382 videos with the following variables:
+
+- Views
+- Likes
+- Dislikes
+- Comments
+- Likes/dislikes
+- Age (days)
+- Likes/dislikes
+- Likes/views
+- Dislikes/views
+- Comments/views
+- Comments/likes
+- Comments/dislikes
+- Mean views per day
+- Mean likes per day
+- Mean dislikes per day
+- Mean comments per day
+- Mean likes/dislikes per day
+- Mean likes/views per day
+- Mean dislikes/views per day
+- Mean comments/views per day
+- Mean comments/likes per day
+- Mean comments/dislikes per day
 
 Then I've done some interactive plots with ipywidgets for the user to enjoy exploring the data for each channel or even comparing two channels at once.
 
