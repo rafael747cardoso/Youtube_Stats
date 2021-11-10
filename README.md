@@ -1,8 +1,8 @@
 
 # Youtube data analysis 
 
-Here I've selected some 160 channels from Youtube and harvested their public data from the YouTube Data API v3.
-Considering the API's limitations and some data cleaning I've made, it has yield some 124.382 videos with the following variables:
+Here I've selected some 207 channels from Youtube and harvested their public data from the YouTube Data API v3.
+Considering the API's limitations and some data cleaning I've made, it has yield some 150.899 videos with the following variables:
 
 - Views
 - Likes
@@ -30,7 +30,7 @@ Then I've done some interactive plots with ipywidgets for the user to enjoy expl
 
 Feel free to grow and update the dataset, baring in mind the API's limitation of only 20.000 videos by channel.
 
-Have fun!
+* Apparently YouTube wont display the dislikes count anymore, which makes this kind of dataset even more interesting and possibly one of the last of its kind.
 
 ## Figures:
 
