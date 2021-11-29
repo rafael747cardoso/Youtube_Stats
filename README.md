@@ -30,7 +30,7 @@ Then I've done some interactive plots with ipywidgets for the user to enjoy expl
 
 Feel free to grow and update the dataset, baring in mind the API's limitation of only 20.000 videos by channel.
 
-* Apparently YouTube wont display the dislikes count anymore, which makes this kind of dataset even more interesting and possibly one of the last of its kind.
+* Apparently YouTube won't display the dislikes count anymore, which makes this kind of dataset even more interesting and possibly one of the last of its kind.
 
 ## Figures:
 
